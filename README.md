@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://europeantourismgdbackend.subhamrakshit97.repl.
 1. Git Clone
 
 ```
-git clone 
+git clone https://github.com/SubhamRakshit97/European_Tourists
 ```
 
 2. Backend setting
