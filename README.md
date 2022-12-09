@@ -8,9 +8,9 @@ Europian Tourist, with a frontend built in React & Redux and a backend built in 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-europian-tourists.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://europeantourismgdfrontend.subhamrakshit97.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://backend-europian-tourists.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://europeantourismgdbackend.subhamrakshit97.repl.co/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-europian-tourists.herokuapp.com/) here
 1. Git Clone
 
 ```
-git clone https://github.com/KendallDiamond/Self-development.git
+git clone 
 ```
 
 2. Backend setting
